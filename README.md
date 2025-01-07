@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utube-freecode
+Subscribe my YouTube Channel - utube freecode
 
 <!---
 utube-freecode/utube-freecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
